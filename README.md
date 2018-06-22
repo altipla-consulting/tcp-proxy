@@ -1,4 +1,4 @@
 
 # tcp-proxy
 
-Proxy TCP usando socat.
+Proxy TCP usando socat para uso interno.
