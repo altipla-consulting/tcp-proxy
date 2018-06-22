@@ -1,6 +1,5 @@
 
-FROM google/debian:wheezy
-MAINTAINER Ernesto Alejo <ernesto@altiplaconsulting.com>
+FROM google/debian:jessie
 
 RUN apt-get update && \
     apt-get -y install socat
